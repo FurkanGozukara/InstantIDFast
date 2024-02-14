@@ -1,0 +1,17 @@
+diffusers==0.26.1
+transformers==4.37.2
+accelerate
+safetensors
+einops
+onnxruntime-gpu
+spaces==0.19.4
+omegaconf
+peft
+huggingface-hub==0.20.2
+opencv-python
+insightface
+gradio
+controlnet_aux
+gdown
+peft
+mediapipe
